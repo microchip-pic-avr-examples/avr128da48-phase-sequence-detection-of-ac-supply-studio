@@ -8,17 +8,17 @@ The AVR® DA family of microcontrollers are peripheral rich, high performance an
 
 The application demonstrator showcases the phase sequence detection and phase loss detection on emulated three phase AC supply using AVR128DA48 microcontroller.
 
-### Relevant Application Note  
+## Relevant Application Note  
 Phase Sequence Detection of Three-Phase AC Supply demonstration and implementation is discussed in the <a href="https://microchip.com/DS00003607" rel="nofollow">Phase Sequence Detection of Three-Phase AC Supply Application Note.
 
-### Application Firmware
+## Application Firmware
 
 The demonstration is implemented with both AVR128DA48 and AVR128DA64 microcontrollers and it is available on microchip GitHub page-
 
 * Using <a href="https://github.com/microchip-pic-avr-examples/avr128da48-phase-sequence-detection-of-ac-supply-studio" rel="nofollow">AVR128DA48
 * Using <a href="https://github.com/microchip-pic-avr-examples/avr128da64-phase-sequence-detection-of-ac-supply-studio" rel="nofollow">AVR128DA64
 
-### Software Used
+## Software Used
 
 Microchip’s IDEs, compiler and graphical code generators are used throughout the application firmware development to provide an easy and hassle-free user experience. 
 Following are the tools which are used for this demo application:
@@ -27,7 +27,7 @@ Following are the tools which are used for this demo application:
 * <a href="https://www.microchip.com/mplab/avr-support/atmel-start" rel="nofollow">Atmel Start (v1.7.391)
 * <a href="https://www.microchip.com/mplab/avr-support/data-visualizer" rel="nofollow">Standalone Data Visualizer (v2.20.674)
 
-### Hardware Used
+## Hardware Used
 
 * <a href="https://www.microchip.com/DevelopmentTools/ProductDetails/PartNO/DM164151" rel="nofollow">AVR128DA48 Curiosity Nano board
 * <a href="https://www.microchip.com/developmenttools/ProductDetails/AC164162" rel="nofollow">Curiosity Nano base for click boards

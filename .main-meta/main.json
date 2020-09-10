@@ -4,10 +4,10 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.avr128da48-phase-sequence-detection-of-ac-supply-studio",
-        "version": "1.0.1",
-        "displayName": "Phase Sequence Detection of AC Supply using AVR128DA48 in Atmel Studio IDE",
+        "version": "1.0.0",
+        "displayName": "Phase Sequence Detection of AC Supply using AVR128DA48(Atmel Studio Project)",
         "projectName": "avr128da48-phase-sequence-detection-of-ac-supply-studio",
-        "shortDescription": "This application note describes the implementation of a phase sequence and phase loss detection system for a three-phase AC supply and demonstrates the detection of phase sequence and phase loss faults on emulated three phase AC systems supply using the AVR128DA48 microcontroller in Atmel Studio IDE",
+        "shortDescription": "This application note describes the implementation of a phase sequence and phase loss detection system for a three-phase AC supply and demonstrates the detection of phase sequence and phase loss faults on emulated three phase AC systems supply using the AVR128DA48 microcontroller",
         "ide": {
             "name": "Studio",
             "semverRange": ">=7.0.2397"
